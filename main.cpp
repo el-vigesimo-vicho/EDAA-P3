@@ -21,7 +21,6 @@ int main() {
     archivo.close();
 
     // Mostrar el contenido del archivo
-    std::cout << "Contenido del archivo concatenacion.txt:" << std::endl;
     std::cout << contenido << std::endl;
 
     return 0;
