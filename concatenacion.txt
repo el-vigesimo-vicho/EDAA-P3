@@ -1,0 +1,1 @@
+Búsqueda binaria corre en tiempo logarítmico$El árbol binario de búsqueda es una estructura de datos fundamental$Sólo quedan 6 semanas para fin de año
